@@ -5,3 +5,5 @@
 *.pickle
 Online Portfolio Selection/data/*
 *.db
+.idea
+Advances in Financial Machine Learning/Financial Data Structures/tutorial_data/raw_tick_data.csv
